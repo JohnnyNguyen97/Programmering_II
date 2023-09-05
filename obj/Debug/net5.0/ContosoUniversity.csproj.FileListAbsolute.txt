@@ -302,3 +302,13 @@ C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\refint\ContosoUni
 C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\ContosoUniversity.pdb
 C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
 C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\ref\ContosoUniversity.dll
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Delete.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Details.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Edit.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Create.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Delete.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Details.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Edit.cshtml.g.cs
+C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Index.cshtml.g.cs
