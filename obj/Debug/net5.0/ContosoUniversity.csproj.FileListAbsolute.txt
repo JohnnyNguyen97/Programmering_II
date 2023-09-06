@@ -327,3 +327,8 @@ C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Depar
 C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\Johnn\source\repos\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Johnny\Source\Repos\Programmering_II\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
