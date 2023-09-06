@@ -7493,19 +7493,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Johnny\\.nuget\\packages\\": {}
+    "C:\\Users\\Johnn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johnny\\Source\\Repos\\Programmering_II\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\Johnn\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\Johnny\\Source\\Repos\\Programmering_II\\ContosoUniversity.csproj",
-      "packagesPath": "C:\\Users\\Johnny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johnny\\Source\\Repos\\Programmering_II\\obj\\",
+      "projectPath": "C:\\Users\\Johnn\\source\\repos\\ContosoUniversity\\ContosoUniversity.csproj",
+      "packagesPath": "C:\\Users\\Johnn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Johnn\\source\\repos\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Johnny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Johnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
